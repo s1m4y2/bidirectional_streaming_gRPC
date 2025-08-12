@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78140FD1-1C7C-41D1-B1D9-D89C23636AE0}|GrpcChatApp\\GrpcChatApp.csproj|c:\\users\\simay\\source\\repos\\grpcchatapp\\grpcchatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78140FD1-1C7C-41D1-B1D9-D89C23636AE0}|GrpcChatApp\\GrpcChatApp.csproj|solutionrelative:grpcchatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78140FD1-1C7C-41D1-B1D9-D89C23636AE0}|GrpcChatApp\\GrpcChatApp.csproj|c:\\users\\simay\\source\\repos\\grpcchatapp\\grpcchatapp\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78140FD1-1C7C-41D1-B1D9-D89C23636AE0}|GrpcChatApp\\GrpcChatApp.csproj|solutionrelative:grpcchatapp\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78140FD1-1C7C-41D1-B1D9-D89C23636AE0}|GrpcChatApp\\GrpcChatApp.csproj|c:\\users\\simay\\source\\repos\\grpcchatapp\\grpcchatapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78140FD1-1C7C-41D1-B1D9-D89C23636AE0}|GrpcChatApp\\GrpcChatApp.csproj|solutionrelative:grpcchatapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78140FD1-1C7C-41D1-B1D9-D89C23636AE0}|GrpcChatApp\\GrpcChatApp.csproj|c:\\users\\simay\\source\\repos\\grpcchatapp\\grpcchatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78140FD1-1C7C-41D1-B1D9-D89C23636AE0}|GrpcChatApp\\GrpcChatApp.csproj|solutionrelative:grpcchatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78140FD1-1C7C-41D1-B1D9-D89C23636AE0}|GrpcChatApp\\GrpcChatApp.csproj|c:\\users\\simay\\source\\repos\\grpcchatapp\\grpcchatapp\\protos\\chat.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{78140FD1-1C7C-41D1-B1D9-D89C23636AE0}|GrpcChatApp\\GrpcChatApp.csproj|solutionrelative:grpcchatapp\\protos\\chat.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F0009-FBD1-4843-8ED1-B1EFE5DC45EA}|GrpcChatClient\\GrpcChatClient.csproj|c:\\users\\simay\\source\\repos\\grpcchatapp\\grpcchatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F0009-FBD1-4843-8ED1-B1EFE5DC45EA}|GrpcChatClient\\GrpcChatClient.csproj|solutionrelative:grpcchatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F0009-FBD1-4843-8ED1-B1EFE5DC45EA}|GrpcChatClient\\GrpcChatClient.csproj|c:\\users\\simay\\source\\repos\\grpcchatapp\\grpcchatclient\\grpcchatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B29F0009-FBD1-4843-8ED1-B1EFE5DC45EA}|GrpcChatClient\\GrpcChatClient.csproj|solutionrelative:grpcchatclient\\grpcchatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GrpcChatApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GrpcChatApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T07:47:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatApp\\appsettings.json",
+              "RelativeDocumentMoniker": "GrpcChatApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatApp\\appsettings.json",
+              "RelativeToolTip": "GrpcChatApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-16T07:47:11.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GrpcChatClient",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatClient\\GrpcChatClient.csproj",
+              "RelativeDocumentMoniker": "GrpcChatClient\\GrpcChatClient.csproj",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatClient\\GrpcChatClient.csproj",
+              "RelativeToolTip": "GrpcChatClient\\GrpcChatClient.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T07:42:31.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatClient\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcChatClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatClient\\Program.cs",
+              "RelativeToolTip": "GrpcChatClient\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:41:54.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatApp\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "GrpcChatApp\\Services\\ChatService.cs",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatApp\\Services\\ChatService.cs",
+              "RelativeToolTip": "GrpcChatApp\\Services\\ChatService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:40:06.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcChatApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatApp\\Program.cs",
+              "RelativeToolTip": "GrpcChatApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:39:46.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "chat.proto",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatApp\\Protos\\chat.proto",
+              "RelativeDocumentMoniker": "GrpcChatApp\\Protos\\chat.proto",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\GrpcChatApp\\GrpcChatApp\\Protos\\chat.proto",
+              "RelativeToolTip": "GrpcChatApp\\Protos\\chat.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-07-16T07:39:27.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

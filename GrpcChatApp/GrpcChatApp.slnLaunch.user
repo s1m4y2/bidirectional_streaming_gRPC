@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Yeni Profil",
+    "Projects": [
+      {
+        "Path": "GrpcChatApp\\GrpcChatApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GrpcChatClient\\GrpcChatClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

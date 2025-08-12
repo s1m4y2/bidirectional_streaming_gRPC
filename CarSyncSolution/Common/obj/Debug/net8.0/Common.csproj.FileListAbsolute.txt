@@ -1,0 +1,14 @@
+C:\Users\Simay\source\repos\CarSyncSolution\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\Simay\source\repos\CarSyncSolution\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simay\source\repos\CarSyncSolution\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Simay\source\repos\CarSyncSolution\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Simay\source\repos\CarSyncSolution\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Simay\source\repos\CarSyncSolution\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Simay\source\repos\CarSyncSolution\Common\bin\Debug\net8.0\Common.runtimeconfig.json
+C:\Users\Simay\source\repos\CarSyncSolution\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Simay\source\repos\CarSyncSolution\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Simay\source\repos\CarSyncSolution\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Simay\source\repos\CarSyncSolution\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Simay\source\repos\CarSyncSolution\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Simay\source\repos\CarSyncSolution\Common\obj\Debug\net8.0\Common.genruntimeconfig.cache
+C:\Users\Simay\source\repos\CarSyncSolution\Common\obj\Debug\net8.0\ref\Common.dll

@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/SyncService.cs \
+obj\Debug\net8.0\Protos/SyncServiceGrpc.cs: Protos/SyncService.proto

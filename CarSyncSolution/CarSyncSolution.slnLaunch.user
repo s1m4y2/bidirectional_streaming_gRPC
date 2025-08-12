@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CarNode1\\CarNode1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CarNode2\\CarNode2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CarNode3\\CarNode3.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

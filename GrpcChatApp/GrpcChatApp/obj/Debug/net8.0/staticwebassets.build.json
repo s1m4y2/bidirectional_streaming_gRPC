@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CzxjE3MPrasJzxDbIiKOV0TI9deeHB5GG33j2ATcd00=",
+  "Source": "GrpcChatApp",
+  "BasePath": "_content/GrpcChatApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

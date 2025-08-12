@@ -1,0 +1,13 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Common.Protos";
+
+message DataUpdate {
+  string sender = 1;
+  string key = 2;
+  string value = 3;
+}
+
+service SyncService {
+  rpc Sync(stream DataUpdate) returns (stream DataUpdate);
+}

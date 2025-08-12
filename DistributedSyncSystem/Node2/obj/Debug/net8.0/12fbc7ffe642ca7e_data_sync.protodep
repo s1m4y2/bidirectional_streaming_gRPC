@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/DataSync.cs \
+obj\Debug\net8.0\Protos/DataSyncGrpc.cs: Protos/data_sync.proto

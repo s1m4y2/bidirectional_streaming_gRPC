@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CarNode2.props" />
+</Project>
